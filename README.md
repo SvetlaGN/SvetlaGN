@@ -8,11 +8,11 @@
 ## 🚀 Projects
 ### Here are repositories showcasing my work on various projects and tools:
 
-📋 Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
+### 📋 Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
 
-📋 Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
+### 📋 Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
 
-📋 Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
+### 📋 Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
 
 ## 🤝 Contacts
  📧 Email: svetla.nasvadi@gmail.com
